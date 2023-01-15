@@ -403,6 +403,7 @@ footer {
     }
 
     .nav__container {
+        margin-left: 2%;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
